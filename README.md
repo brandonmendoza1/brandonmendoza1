@@ -10,7 +10,7 @@ Data visualization with Tableau & Power BI
 
 Machine learning basics
 
-- 🔭 Recently, I created a machine learning project on student performance using Excel and XLMiner, check it out [here](brandonmendoza1/highschool-performance-predictive-model)
+- 🔭 Recently, I created a machine learning project on student performance using Excel and XLMiner, check it out [here](highschool-performance-predictive-model)
 
 <!--
 **brandonmendoza1/brandonmendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
