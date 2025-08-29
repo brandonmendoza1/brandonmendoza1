@@ -10,9 +10,7 @@ Data visualization with Tableau & Power BI
 
 Machine learning basics
 
-📊 My goal is to grow into a well-rounded data analytics professional who can bridge the gap between raw data and actionable strategy.
-
-💡 Outside of data, I enjoy continuous learning, collaborating on projects, and exploring how analytics can solve meaningful problems.
+- 🔭 Recently, I created a machine learning project on student performance using Excel and XLMiner, check it out [here](brandonmendoza1/highschool-performance-predictive-model)
 
 <!--
 **brandonmendoza1/brandonmendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
