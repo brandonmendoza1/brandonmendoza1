@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I'm a recent Business Analytics graduate passionate about turning data into insights that drive real-world decisions.
-I’m interested in all things business analytics, data science, and visualization!
+My name is Brandon, and I'm a recent Business Analytics graduate interested in all things business analytics, data science, and visualization!
 
 🌱 Currently, I’m learning:
 
