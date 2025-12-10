@@ -4,12 +4,12 @@ My name is Brandon, and I'm a recent Business Analytics graduate interested in a
 
 📊 My skills: 
 
-- SQL, Tableau, and Excel
+- Excel, SQL and Tableau
 - Machine Learning and data visualization
 
 🌱 Currently, I’m learning:
 
-- Alteryx & Python for data analysis
+- Python for data analysis
 - Data visualization with Tableau & Power BI
 - Machine learning basics
 
