@@ -12,15 +12,11 @@ I’m a Business Analytics graduate interested in **data analytics, business int
 
 ---
 
-## 📌 Featured Projects
+## 📌 Most Recent Project
 
 **📦 Superstore Fulfillment Analytics (Excel)**  
 End-to-end Excel analytics project using Power Query, regression, and dashboards to analyze fulfillment delays.  
 👉 https://github.com/brandonmendoza1/superstore-analytics-project
-
-**🎓 High School Performance Predictive Model**  
-Predictive analytics & machine learning project analyzing student performance data.  
-👉 https://github.com/brandonmendoza1/highschool-performance-predictive-model
 
 ---
 
