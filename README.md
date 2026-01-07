@@ -22,7 +22,6 @@ End-to-end Excel analytics project using Power Query, regression, and dashboards
 
 ## 📫 Let’s Connect
 - 📧 Email: brandon.ljc98@gmail.com
-- 💼 LinkedIn: [in/al-brandon](https://www.linkedin.com/in/al-brandon/)
 
 <!--
 **brandonmendoza1/brandonmendoza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
