@@ -1,66 +1,26 @@
-# Hi there 👋 I’m Brandon
+# Hi, I’m Brandon 👋
 
-I’m a Business Analytics graduate interested in **data analytics, business intelligence, and operations analytics**. I enjoy turning messy data into clear insights using tools like Excel, SQL, and Python, and communicating results through dashboards and analysis.
-
----
-
-## 🔍 What I’m Interested In
-- Business Intelligence & Analytics
-- Operations & Process Analysis
-- Data Visualization & Storytelling
-- Applied Machine Learning & Predictive Modeling
+I’m a Business Analytics graduate interested in **data analytics, business intelligence, and operations analytics**. I enjoy turning messy data into clear insights using Excel and SQL, and communicating results through dashboards and analysis.
 
 ---
 
-## 🛠️ Tools & Skills
-
-**Data & Analytics**
+## 🛠️ Skills & Tools
 - Excel (Power Query, Pivot Tables, Regression, Dashboards)
-- SQL (basic querying, joins, aggregations — actively learning)
-- Python (learning for data analysis & modeling)
-
-**Modeling & Analysis**
-- Exploratory Data Analysis (EDA)
-- Regression & Classification
-- Feature Engineering
-- Basic Machine Learning
-
-**Visualization**
-- Excel Dashboards
-- Tableau (learning)
-- Power BI (learning)
+- SQL (basic querying & joins — actively learning)
+- Python (learning for data analysis)
+- Tableau & Power BI (learning)
 
 ---
 
 ## 📌 Featured Projects
 
-### 📦 Superstore Fulfillment Analytics (Excel)
-**End-to-end operations analytics project using Excel, Power Query, regression, and dashboards.**
+**📦 Superstore Fulfillment Analytics (Excel)**  
+End-to-end Excel analytics project using Power Query, regression, and dashboards to analyze fulfillment delays.  
+👉 https://github.com/brandonmendoza1/superstore-analytics-project
 
-- Built an order-level dataset from line-item data using Power Query
-- Engineered a fulfillment delay metric (OrderLagDays)
-- Used regression to identify **shipping mode** as the main driver of fulfillment delay
-- Built a dashboard to visualize and communicate insights
-
-👉 Repo: https://github.com/brandonmendoza1/superstore-analytics-project
-
----
-
-### 🎓 High School Performance Predictive Model
-**Predictive analytics & machine learning project analyzing student performance data.**
-
-- Explored academic, demographic, and behavioral features
-- Built and compared models (regression, k-NN, regression trees)
-- Evaluated which factors are most predictive of final grades
-
-👉 Repo: https://github.com/brandonmendoza1/highschool-performance-predictive-model
-
----
-
-## 🌱 Currently Learning
-- Python for data analysis (pandas, matplotlib, scikit-learn)
-- Tableau & Power BI for business dashboards
-- Deeper machine learning foundations
+**🎓 High School Performance Predictive Model**  
+Predictive analytics & machine learning project analyzing student performance data.  
+👉 https://github.com/brandonmendoza1/highschool-performance-predictive-model
 
 ---
 
